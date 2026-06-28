@@ -1,24 +1,22 @@
-# Mi 1ra Web en Python
+# 🌐 Mi Primera Web en Python
 
-Mi primera aplicación web desarrollada con Python utilizando Reflex.
+Primera aplicación web desarrollada con Python puro usando el framework Reflex.
 
-## Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
-- Python
-- Reflex
-- HTML/CSS (generado por Reflex)
+- **Python** 3.x
+- **Reflex** - Framework web con Python puro
+- HTML/CSS generado automáticamente por Reflex
 
-## Cómo ejecutar el proyecto
+## 🚀 Cómo ejecutar el proyecto
 
-bash
+### Requisitos previos
+- Python 3.8 o superior
+- pip
+
+### Instalación
+
+```bash
+pip install reflex
 reflex init
 reflex run
-
-
-## Objetivo
-
-Aprender desarrollo web con Python y crear mi primera página web.
-
-## Autor
-
-Carlos Acosta
