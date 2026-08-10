@@ -1,22 +1,66 @@
-# 🌐 Mi Primera Web en Python
+# 🛒 Sistema de Ventas - Artículos de Limpieza LCV
 
-Primera aplicación web desarrollada con Python puro usando el framework Reflex.
+Aplicación web desarrollada con **Python y Reflex** para la gestión de un sistema de ventas de artículos de limpieza.
 
-## 🛠️ Tecnologías utilizadas
+## 📌 Estado del proyecto
 
-- **Python** 3.x
-- **Reflex** - Framework web con Python puro
-- HTML/CSS generado automáticamente por Reflex
+🚧 **En desarrollo**
 
-## 🚀 Cómo ejecutar el proyecto
+## 🖥️ Aplicación
 
-### Requisitos previos
-- Python 3.8 o superior
-- pip
+Actualmente cuenta con una pantalla principal que permite acceder a los siguientes módulos:
 
-### Instalación
+- 📦 Productos
+- 👥 Clientes
+- 💰 Ventas
 
-```bash
-pip install reflex
-reflex init
-reflex run
+## ✨ Funcionalidades actuales
+
+- Interfaz web desarrollada con Reflex.
+- Página principal del sistema.
+- Navegación organizada por módulos.
+- Diseño inicial orientado a la gestión de ventas.
+
+## 🚀 Próximas funcionalidades
+
+### 📦 Productos
+- Registrar productos.
+- Consultar productos.
+- Editar productos.
+- Eliminar productos.
+- Control de stock.
+
+### 👥 Clientes
+- Registrar clientes.
+- Consultar clientes.
+- Editar clientes.
+- Eliminar clientes.
+- Búsqueda de clientes.
+
+### 💰 Ventas
+- Registrar ventas.
+- Seleccionar cliente.
+- Agregar productos.
+- Calcular total automáticamente.
+
+### 🗄️ Base de datos
+- Integración con SQLite.
+- Almacenamiento permanente de productos, clientes y ventas.
+
+## 🛠️ Tecnologías
+
+- Python
+- Reflex
+- SQLite
+- Git
+- GitHub
+
+## 📷 Captura de pantalla
+
+> Se agregará una captura de la aplicación en una próxima actualización.
+
+## 👨‍💻 Autor
+
+**Carlos Acosta**
+
+Proyecto desarrollado como parte de mi aprendizaje en Python y desarrollo de aplicaciones web.
